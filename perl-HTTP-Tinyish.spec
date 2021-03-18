@@ -4,7 +4,7 @@
 #
 Name     : perl-HTTP-Tinyish
 Version  : 0.17
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/HTTP-Tinyish-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/HTTP-Tinyish-0.17.tar.gz
 Summary  : 'HTTP::Tiny compatible HTTP client wrappers'
@@ -109,9 +109,9 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish/Base.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish/Curl.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish/HTTPTiny.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish/LWP.pm
-/usr/lib/perl5/vendor_perl/5.30.3/HTTP/Tinyish/Wget.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Base.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Curl.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/HTTPTiny.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/LWP.pm
+/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Wget.pm
