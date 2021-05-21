@@ -109,9 +109,9 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Base.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Curl.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/HTTPTiny.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/LWP.pm
-/usr/lib/perl5/vendor_perl/5.32.1/HTTP/Tinyish/Wget.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish/Base.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish/Curl.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish/HTTPTiny.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish/LWP.pm
+/usr/lib/perl5/vendor_perl/5.34.0/HTTP/Tinyish/Wget.pm
