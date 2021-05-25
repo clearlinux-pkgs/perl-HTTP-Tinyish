@@ -4,7 +4,7 @@
 #
 Name     : perl-HTTP-Tinyish
 Version  : 0.17
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/HTTP-Tinyish-0.17.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/HTTP-Tinyish-0.17.tar.gz
 Summary  : 'HTTP::Tiny compatible HTTP client wrappers'
